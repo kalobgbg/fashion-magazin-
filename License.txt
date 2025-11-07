@@ -1,0 +1,3 @@
+
+# .gitignore (recommended)
+Create a file `.gitignore` with:
